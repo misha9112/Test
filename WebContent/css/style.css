@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+.title {
+	font-size: 51px;
+}
+.p_title {
+	font-size: 10px;
+}
+.bg-1 {
+	background: #555;
+}
+
+.btn, bg-1 {
+	background: #555;
+	color: white;
+}
+
+.footer {
+	background: #555;
+	color: white;
+	padding: 15px;
+}
+
+.body {
+	margin: 0;
+}
+
+.menu {
+	background: #555;
+}
+
+.imgs img {
+	width: 100%;
+}
+
+.imgs div {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.v_comment{
+	font-size:30px;
+}
